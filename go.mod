@@ -30,11 +30,11 @@ require (
 	github.com/syndtr/goleveldb v1.0.1-0.20190318030020-c3a204f8e965
 	github.com/tebeka/strftime v0.1.3 // indirect
 	github.com/tecbot/gorocksdb v0.0.0-20190705090504-162552197222
-	golang.org/x/crypto v0.0.0-20191122220453-ac88ee75c92c
-	golang.org/x/net v0.0.0-20200226121028-0de0cce0169b
-	golang.org/x/tools/gopls v0.4.0 // indirect
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.7.0
 	google.golang.org/genproto v0.0.0-20190817000702-55e96fffbd48
 	google.golang.org/grpc v1.23.0
+	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	gopkg.in/fatih/set.v0 v0.2.1
 	gopkg.in/karalabe/cookiejar.v2 v2.0.0-20150724131613-8dcd6a7f4951
 )
